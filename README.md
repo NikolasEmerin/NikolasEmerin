@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  ⏳ Learning: **JS, CSS, HTML**
 </p>
 
 <p align="left">
