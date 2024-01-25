@@ -6,7 +6,7 @@
 Currently studying Offensive Security, OSINT, Python, C# and Linux;
 
 
-<img align="center" src="static/tux-linux-penguin.gif"
+<img align="center" src="https://tenor.com/pt-BR/view/rami-malek-mr-robot-elliot-alderson-gif-18214205"
   alt="neutral" width="150">
 -----
 
