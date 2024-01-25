@@ -1,4 +1,4 @@
-<gif src="https://tenor.com/pt-BR/view/rami-malek-mr-robot-elliot-alderson-gif-18214205" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://tenor.com/pt-BR/view/rami-malek-mr-robot-elliot-alderson-gif-18214205" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
