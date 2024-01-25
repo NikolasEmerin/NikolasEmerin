@@ -1,4 +1,4 @@
-<img src="https://www.google.com/search?client=opera-gx&q=mr+robot+gif&sourceid=opera&ie=UTF-8&oe=UTF-8#cobssid=s&vhid=2j2bwn4weidE6M&vssid=l"  min-width="400px" max-width="400px" width="400px" align="right">
+<img src="[https://www.google.com/search?client=opera-gx&q=mr+robot+gif&sourceid=opera&ie=UTF-8&oe=UTF-8#cobssid=s&vhid=2j2bwn4weidE6M&vssid=l](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Frami-malek-mr-robot-elliot-alderson-gif-18214205&psig=AOvVaw04KpreIXHbtUphMeL_gm64&ust=1706251134413000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDxlvj294MDFQAAAAAdAAAAABAE)"  min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="center"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
