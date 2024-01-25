@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://www.google.com/search?client=opera-gx&q=mr+robot+gif&sourceid=opera&ie=UTF-8&oe=UTF-8#cobssid=s&vhid=2j2bwn4weidE6M&vssid=l" alt="série mr robot" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="center"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
