@@ -29,10 +29,3 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-Image
-음악가
-BOT
- — 01/18/2024 4:47 PM
-:spotify: ​ Started playing Te Arrepiar by MC Ryan SP
-dstar 冷静拍摄 — 01/18/2024 4:48 PM
-<img src="https://cdn.discordapp.com/attachments/1051934649678573579/1197628254358609950/image.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
